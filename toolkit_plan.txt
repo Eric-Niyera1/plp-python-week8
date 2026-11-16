@@ -1,0 +1,26 @@
+PLP PYTHON WEEK 8 - TOOLKIT PLAN
+
+TOOLS
+1. Number Guessing Game
+The program chooses a secret number and lets the player guess until they find it, giving hints after each guess.
+
+2. To-Do List
+The user can add tasks, view the current tasks, and remove tasks while the program is running.
+
+3. Simple Calculator
+The user enters two numbers and chooses addition, subtraction, multiplication, or division; the program displays the result and handles division by zero.
+
+EXACT MENU TEXT
+Welcome to My Python Toolkit!
+Choose a tool:
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+Enter your choice (1-4):
+
+CONCEPTS USED
+1. Number Guessing Game: while loop, if/elif/else conditionals, random numbers, int conversion, f-strings.
+2. To-Do List: list, append(), remove(), for loop, if/elif/else conditionals, f-strings.
+3. Simple Calculator: numeric input, if/elif/else conditionals, division-by-zero check, f-strings.
+4. Main menu: while loop, if/elif/else conditionals, input validation, f-strings.
